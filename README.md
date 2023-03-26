@@ -12,3 +12,4 @@ OSICDef.dat --- Contains constant values for the main.py file to run
 Policies.dat --- Stores customer information from the main.py file. 
     
 both .dat files are needed for main.py to run! saleplot.py can run on it's own.
+
